@@ -1,0 +1,8 @@
+server:
+  port: 8761
+eureka:
+  # @see EurekaClientConfigBean.java
+  client:
+    # 启动时不要通过eureka注册服务
+    register-with-eureka: false
+    fetch-registry: false
