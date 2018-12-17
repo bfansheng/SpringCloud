@@ -9,11 +9,11 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.bfans</groupId>
-    <artifactId>client</artifactId>
+    <artifactId>service1</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
-    <name>client</name>
-    <description>client</description>
+    <name>service1</name>
+    <description>service1</description>
 
     <properties>
         <java.version>1.8</java.version>

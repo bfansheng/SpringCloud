@@ -1,4 +1,4 @@
-package com.bfans.client;
+package com.bfans.service0;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
